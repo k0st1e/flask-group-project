@@ -1,26 +1,27 @@
-##Contributor Covenant Code of Conduct
-###Our Pledge
+## Contributor Covenant Code of Conduct
 
-We as contributors and maintainers promise to keep our restaurant website project respectful, professional, and welcoming for everyone.
+### Our Pledge
 
-###Our Standards
+- We as contributors and maintainers promise to keep our restaurant website project respectful, professional, and welcoming for everyone.
 
-Positive behavior includes respectful language, teamwork, accepting feedback, and keeping restaurant content accurate and appropriate.
+### Our Standards
 
-Unacceptable behavior includes insults, offensive language, false content, harassment, or sharing private information without permission.
+- Positive behavior includes respectful language, teamwork, accepting feedback, and keeping restaurant content accurate and appropriate.
 
-###Our Responsibilities
+- Unacceptable behavior includes insults, offensive language, false content, harassment, or sharing private information without permission.
 
-Project maintainers may edit, reject, or remove any contribution that is harmful, inappropriate, or unprofessional.
+### Our Responsibilities
+
+- Project maintainers may edit, reject, or remove any contribution that is harmful, inappropriate, or unprofessional.
 
 ###Scope
 
-This Code of Conduct applies to all project work, including code, content, reviews, messages, and discussions related to the restaurant website.
+- This Code of Conduct applies to all project work, including code, content, reviews, messages, and discussions related to the restaurant website.
 
-###Enforcement
+### Enforcement
 
-Any unacceptable behavior should be reported to the project leader or maintainer for proper action.
+- Any unacceptable behavior should be reported to the project leader or maintainer for proper action.
 
-###Attribution
+### Attribution
 
-This Code of Conduct is adapted for this restaurant website project.
+- This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), available at [Contributor Covenant Version 3](https://www.contributor-covenant.org/version/3/0/code_of_conduct/).
