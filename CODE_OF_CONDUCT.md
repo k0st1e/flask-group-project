@@ -14,7 +14,7 @@
 
 - Project maintainers may edit, reject, or remove any contribution that is harmful, inappropriate, or unprofessional.
 
-###Scope
+### Scope
 
 - This Code of Conduct applies to all project work, including code, content, reviews, messages, and discussions related to the restaurant website.
 
